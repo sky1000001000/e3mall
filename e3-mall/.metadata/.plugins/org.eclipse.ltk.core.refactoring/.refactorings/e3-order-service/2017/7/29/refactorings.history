@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;e3-order-service&apos;&#x0D;&#x0A;- Original project: &apos;e3-order-service&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     applicationContext-activemq.xml&#x0D;&#x0A;     applicationContext-solr.xml" description="Delete elements" element1="src/main/resources/spring/applicationContext-solr.xml" element2="src/main/resources/spring/applicationContext-activemq.xml" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1500268629138" subPackages="false" version="1.0"/>
+</session>

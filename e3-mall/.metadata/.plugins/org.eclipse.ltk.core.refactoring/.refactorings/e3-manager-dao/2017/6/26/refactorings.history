@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;java&apos; to &apos;e3-common&apos;&#x0D;&#x0A;- Original project: &apos;e3-manager-dao&apos;&#x0D;&#x0A;- Destination element: &apos;e3-common&apos;&#x0D;&#x0A;- Original element: &apos;e3-manager-dao/src/main/java&apos;" description="Copy source folder" element1="/src\/main\/java" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1498826296669" target="/e3-common" version="1.0"/>
+</session>

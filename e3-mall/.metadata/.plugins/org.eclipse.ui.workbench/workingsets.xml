@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1499960306835_1" label="e3-sso" name="e3-sso">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-sso-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-sso" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/e3-sso-service" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1498793481919_0" label="Window Working Set" name="Aggregate for window 1498793481918"/>
+</workingSetManager>

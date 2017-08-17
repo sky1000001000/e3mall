@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;webapp&apos; to &apos;main&apos;" description="Move &apos;webapp&apos; to &apos;main&apos;" destination="src/main" element1="src/webapp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1498905470042" updateReferences="true"/>
+</session>

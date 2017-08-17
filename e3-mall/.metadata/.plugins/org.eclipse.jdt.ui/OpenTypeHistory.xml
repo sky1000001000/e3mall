@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=e3-search-web/D:\/maven\/lib\/repository\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet(HandlerExceptionResolver.class[HandlerExceptionResolver" modifiers="1537" timestamp="1463390358142"/>
+<typeInfo handle="=e3-item-web/D:\/maven\/lib\/repository\/org\/apache\/activemq\/activemq-all\/5.11.2\/activemq-all-5.11.2.jar&lt;javax.jms(MessageListener.class[MessageListener" modifiers="1537" timestamp="1463412213137"/>
+<typeInfo handle="=e3-item-web/D:\/maven\/lib\/repository\/org\/apache\/activemq\/activemq-all\/5.11.2\/activemq-all-5.11.2.jar&lt;org.apache.activemq.memory.list(MessageList.class[MessageList" modifiers="1537" timestamp="1463412213137"/>
+<typeInfo handle="=e3-cart-web/D:\/maven\/lib\/repository\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet.handler(HandlerInterceptorAdapter.class[HandlerInterceptorAdapter" modifiers="1057" timestamp="1463390358142"/>
+<typeInfo handle="=e3-order-web/D:\/maven\/lib\/repository\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet(HandlerInterceptor.class[HandlerInterceptor" modifiers="1537" timestamp="1463390358142"/>
+</typeInfoHistroy>
